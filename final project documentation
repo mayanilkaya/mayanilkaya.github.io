@@ -197,3 +197,15 @@ thought I could act as if its a text but it doesn't work.
 Next step is to work on the listen page.
 I added one of the videos I wanted to put up, as I was adding a photo but there
 was no way of pausing the video that way. So I'll do more research.
+
+
+Meeting with Rachel:
+delete personal info
+center pdf through css
+make image a smaller file bc maybe its too big and its not showing on the browser.
+
+all of my html files were saved in my itp folder, and that's not the correct place to host it on the web. so
+we had to move them to mayanilkaya.github.io
+
+I'm confused to how I'm supposed to save the listen/about pages if they're all supposed to be savce as "iondex.html"
+I can see (by looking at Rachel's code) I I'm going to make them hyperlinks under the topnav category.
