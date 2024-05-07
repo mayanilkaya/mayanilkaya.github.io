@@ -34,7 +34,7 @@ I went to her home page and viewed source to see how she put it all together.
 
 I found the code for her menu and replaced some of it with what I wanted.
 
-I changed the previous template for this one. I'm assuming this is going to help make it interactive with javascript.
+I changed the previous template for this one.
 <body class="transition-enabled">  <div class='page-background-video page-background-video-with-panel'>
 </div>
 <div class="js-responsive-nav">
@@ -53,7 +53,7 @@ I changed the previous template for this one. I'm assuming this is going to help
 It looked too complicated. Rachel's way of doing it looks much simpler so I'm going to analyze that and do it that way.
 I found this website https://www.shecodes.io/athena/3644-creating-a-dynamic-navigation-bar-with-html-css-javascript#:~:text=In%20HTML%2C%20you%20will%20need,in%20a%20tag.&text=In%20CSS%2C%20you%20will%20need,lay%20out%20the%20navigation%20items.
 
-I read and understood that I had to incorporate the menu in the stylesheet so it would look how I wanted it to look like.
+I read and understood on that website, that I had to incorporate the menu in the stylesheet so it would look how I wanted it to look like.
 
 I think putting it in the stylesheet and adding the nav ul turned the menu items into hyperlinks.
 Now I have to make those links into actual pages.
@@ -81,7 +81,7 @@ I made about active on the page.
 
 Now I'm gonna work on the about page.
 
-First I want to put a phoyo of myself. I copy paste the image's code
+First I want to put a photo of myself. I copy paste the image's code
 <img src=maya.JPG>
 
 It's not showing up yet. I tried putting the image also in the folder that contains
@@ -257,3 +257,15 @@ I can go to the other links from home page except for watch. oh its bc i changed
 fixed it.
 
 i can't figure out how to host it.
+
+All of my references:
+
+Wendy Eisenberg's website: view-source:https://www.wendyeisenberg.com/
+
+Rachel's website: view-source:https://racheldevorah.studio/about/
+
+for HTML help on fonts/colors: https://www.w3schools.com/html/html_colors.asp
+
+ https://4ddig.tenorshare.com/photo-error/images-not-showing-on-website.html#:~:text=The%20reason%20why%20images%20are%20not%20showing%20up%20in%20HTML,the%20image%20to%20not%20show
+
+wwww.w3schools.com
