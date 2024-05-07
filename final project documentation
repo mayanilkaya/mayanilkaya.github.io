@@ -209,3 +209,46 @@ we had to move them to mayanilkaya.github.io
 
 I'm confused to how I'm supposed to save the listen/about pages if they're all supposed to be savce as "iondex.html"
 I can see (by looking at Rachel's code) I I'm going to make them hyperlinks under the topnav category.
+
+I start by trying to solve the image problem/ its not shwoing on chrome but its showing on safari.
+I go to developer toulse and click on console to see what thbe problem is. so there is no image in the folder that's supposed to be.
+ it says "fail to load resource: net:: ERR_FILE_NOT_FOUND home.JPG:!"
+
+ reading stackoverflow entries about this, and they're saying that either payh is wrong or file isn't present where I want it to be.
+
+there was a slash before home.JPG, I deleted that and the error went away on the console but the image is still not showing.
+
+i'm going to try reducing the size of the image by compressing it. YAY! It worked>>>
+So I wanted to reduce the size of the image. to do this, i open it with preview. go to tools and click adjust size. it haid 72 pxl originally, and i reduced it to 60.
+when i was trying to save it, however it would say that i don't have permission to edit/save. i had airdropped this photo from my phone to my downloads folder. i assumed
+maybe if i downloaded it to 'photos', something would change. i deleted that image, and airdropped the same one from my iphone to my photos folder this time.
+i exported it to my desktop, named it homepage.jpeg. reduced its size to 60, and saved. (i could save it, it worked)
+and then i moved the image to the folder mayanilkaya.github.io (because that's where this html is being hosted). right clicked on
+the image, copied it. pasted it in the index file where i had < img src= "..."> . saved the file. refreshed the page, and it showed!!!
+
+2. thing rachel told me to do was to edit my CV and get rid of personal info such as address etc.
+
+i edited my CV and took personal info out.
+
+i added very short info about myself on the about page. the image isnt showing on chrome but showing on safari. trying the same fix i did before.
+
+works! looks different on chrome and safari though, interesting. now i'm working on aligning text and image.
+
+home and about pages are done. i want to center align cv later.
+
+moving on to listen:
+here i will put video recordings of me performing. for the sake of the deadline,
+i will only put a few. i will add more and edit later.
+
+i realized i only needed one css file while i did a stylesheet for every page.
+
+i put a google drive link and a pdf to fragments.
+
+moving on to watch.
+
+for some reason i can't change the color of the text that i hyperlink to videos etc.
+
+will let that stay unresolved.
+
+I hadn't figured out how to hyperlik the pages together until now. i just copy past the githun.io links to create hyperlihnks.
+i will move it to another host later.
