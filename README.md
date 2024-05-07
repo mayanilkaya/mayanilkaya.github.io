@@ -252,3 +252,8 @@ will let that stay unresolved.
 
 I hadn't figured out how to hyperlik the pages together until now. i just copy past the githun.io links to create hyperlihnks.
 i will move it to another host later.
+
+I can go to the other links from home page except for watch. oh its bc i changed the name.
+fixed it.
+
+i can't figure out how to host it.
