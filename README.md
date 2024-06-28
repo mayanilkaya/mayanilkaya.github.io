@@ -269,3 +269,7 @@ for HTML help on fonts/colors: https://www.w3schools.com/html/html_colors.asp
  https://4ddig.tenorshare.com/photo-error/images-not-showing-on-website.html#:~:text=The%20reason%20why%20images%20are%20not%20showing%20up%20in%20HTML,the%20image%20to%20not%20show
 
 wwww.w3schools.com
+
+JUNE 28
+getting back to it.
+uploaded two of my vids onyoutube and updatd the listen to leaves link for leaves for the youtube link. i want to put a vid that plays on the website itself so im gonna look at how rachel did it for her website.
